@@ -1,0 +1,238 @@
+number  Symbol	  Mass    	Group		Name	       
+	
+01	H	  1.0		1		Hydrogen	
+
+02	He	  4.00		18		Helium		
+		
+03	Li	  6.941		1		Lithium		
+
+04	Be	  9.012		2		Beryllium	
+
+05	B	  10.811	13		Boron		
+
+06	C         12.010	14		Carbon		
+
+07	N	  14.006	15		Nitrogen	
+
+08	O	  15.999	16		Oxygen		
+
+09	F	  18.998	17		Fluorine	
+
+010	Ne	  20.179	18		Neon		
+
+011	Na	  22.989	1		Sodium 		
+
+012	Mg	  24.305	2		Magnesium	
+
+013	Al	  26.981	13		Aluminium	
+
+014	Si	  28.085	14		Silicon		
+
+015	P	  30.973	15		Phosphorus	
+
+016	S	  32.065	16		Sulfur		
+
+017	Cl	  35.453	17		Chlorine	
+
+018	Ar	  39.948	18		Argon		
+
+19	K	  39.098	1		Potassium 	
+
+20	Ca	  40.078	2		Calcium		
+
+21	Sc	  44.955	3		Scandium	
+
+22	Ti	  47.867	4		Titanium	
+
+23	V	  50.941	5		Vanadium	
+
+24	Cr	  51.996	6		Chromium	
+
+25	Mn	  54.938	7		Manganese	
+
+26	Fe	  55.845	8		Iron 		
+
+27	Co	  58.933	9		Cobalt		
+
+28	Ni	  58.693	10		Nickel		
+
+29	Cu	  63.546	11		Copper 		
+
+30	Zn	  65.409	12		Zinc		
+
+31	Ga	  69.723	13		Gallium		
+
+32	Ge	  72.64		14		Germanium	
+
+33	As	  74.921	15		Arsenic		
+
+34	Se	  78.96		16		Selenium	
+
+35	Br	  79.904	17		Bromine		
+
+36	Kr	  83.798	18		Krypton		
+
+37	Rb	  85.467	1		Rubidium	
+
+38	Sr	  87.62		2		Strontium	
+
+39	Y	  88.905	3		Yttrium		
+
+40	Zr	  91.224	4		Zirconium	
+
+41	Nb	  92.906	5		Niobium		
+
+42	Mo	  95.94		6		Molybdenum	
+
+43	Tc	  98		7		Technetium	
+
+44	Ru	  101.07	8		Ruthenium	
+
+45	Rh	  102.9		9		Rhodium		
+
+46	Pd	  106.42	10		Palladium	
+
+47	Ag	  107.868	11		Silver		
+
+48	Cd	  112.411	12		Cadmium		
+
+49	In	  114.818	13		Indium		
+
+50	Sn	  118.710	14		Tin 		
+
+51	Sb	  121.760	15		Antimony 	
+
+52	Te	  127.60	16		Tellurium	
+
+53	I	  126.904	17		Iodine		
+
+54	Xe	  131.293	18		Xenon		
+
+55	Cs	  132.905	1		Caesium 	 
+
+56	Ba	  137.327	2		Barium		
+
+57	La	  138.905	n/a		Lanthanum	
+
+58	Ce	  140.116	n/a		Cerium		
+
+59	Pr	  140.907	n/a		Praseodymium	
+
+60	Nd	  144.242	n/a		Neodymium	
+
+61	Pm	  145		n/a		Promethium	
+
+62	Sm	  150.36	n/a		Samarium	
+
+63	Eu	  151.964	n/a		Europium	
+
+64	Gd	  157.25	n/a		Gadolinium	
+
+65	Tb	  158.925	n/a		Terbium		
+
+66	Dy	  162.500	n/a		Dysprosium	
+
+67	Ho	  164.930	n/a		Holmium		
+
+68	Er	  167.259	n/a		Erbium		
+
+69	Tm	  168.934	n/a		Thulium		
+
+70	Yb	  173.04	n/a		Ytterbium	
+
+71	Lu	  174.967  	3		Lutetium	
+
+72	Hf	  178.49	4		Hafnium		
+
+73	Ta	  180.947	5		Tantalum	
+
+74	W	  183.84	6		Tungsten 
+
+75	Re	  186.207	7		Rhenium		
+
+76	Os	  190.23	8		Osmium		
+
+77	Ir	  192.217	9		Iridium		
+
+78	Pt	  195.084	10		Platinum	
+
+79	Au	  196.966	11		Gold		
+
+80	Hg	  200.59	12		Mercury 	
+
+81	Tl	  204.383	13		Thallium	
+
+82	Pb	  207.2		14		Lead 		
+
+83	Bi	  208.980	15		Bismuth		
+
+84	Po	  210		16		Polonium	
+ 
+85	At	  210		17		Astatine			
+
+86	Rn	  220		18		Radon			
+
+87	Fr	  223		1		Francium	
+
+88	Ra	  226		2		Radium			
+
+89	Ac	  227		n/a		Actinium		
+
+91	Pa	  231.035	n/a		Protactinium	
+
+90	Th	  232.038 	n/a		Thorium			
+
+93	Np	  237		n/a		Neptunium	
+
+92	U	  238.028	n/a		Uranium		
+
+95	Am	  243		n/a		Americium	
+
+94	Pu	  244		n/a		Plutonium	
+
+96	Cm	  247		n/a		Curium		
+
+97	Bk	  247		n/a		Berkelium	
+
+98	Cf	  251		n/a		Californium	
+
+99	Es	  252		n/a		Einsteinium	
+
+100	Fm	  257		n/a		Fermium		
+
+101	Md	  258		n/a		Mendelevium	
+
+102	No	  259		n/a		Nobelium	
+
+103	Lr	  262		3		Lawrencium	
+
+104	Rf	  261		4		Rutherfordium	
+
+105	Db	  262		5		Dubnium		
+
+106	Sg	  266		6		Seaborgium	
+
+107	Bh	  264		7		Bohrium		
+
+108	Hs	  277		8		Hassium		
+
+109	Mt	  268		9		Meitnerium			
+
+110	Ds	  271		10		Darmstadtium		
+
+111	Rg	  272		11		Roentgenium			
+
+112	Uub	  285		12		Ununbium	
+
+113	Uut	  284		13		Ununtrium	
+
+114	Uuq	  289		14		Ununquadium	
+
+115	Uup	  288		15		Ununpentium	
+
+116	Uuh	  292		16		Ununhexium	
+
+117     Uus	   -		17		Ununseptium     		
+
+118	Uuo	  293		18		Ununoctium	
+0
